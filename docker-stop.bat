@@ -1,0 +1,1 @@
+start /MAX cmd /c "cls && title Docker Compose Stop && docker compose stop && docker compose rm -f && timeout /t 10 /nobreak"

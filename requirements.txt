@@ -1,0 +1,5 @@
+fastapi[all]
+uvicorn[standard]
+pillow==9.2.0
+pytest==7.1.2
+opencv-python-headless
